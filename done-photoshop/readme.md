@@ -1,0 +1,1 @@
+Folder for storing source files for icons or images
